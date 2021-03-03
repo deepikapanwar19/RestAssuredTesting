@@ -1,20 +1,20 @@
 [
   {
     "id": 1,
-    "firstName" : "Deepika"
-    "lastName" : "Panwar"
+    "firstName" : "Deepika",
+    "lastName" : "Panwar",
     "title": "Post 1"
   },
   {
     "id": 2,
-    "firstName" : "Anurag"
-    "lastName" : "Parihar"
+    "firstName" : "Anurag",
+    "lastName" : "Parihar",
     "title": "Post 2"
   },
   {
     "id": 3,
-     "firstName" : "Anaisha"
-    "lastName" : "Parihar"
+     "firstName" : "Anaisha",
+    "lastName" : "Parihar",
     "title": "Post 3"
   }
 ]
